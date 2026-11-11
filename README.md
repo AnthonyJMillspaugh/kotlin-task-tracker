@@ -1,3 +1,7 @@
+Language Project for CS 343
+
+### Kotlin Multiplatform info
+
 This is a Kotlin Multiplatform project targeting Android, Web, Desktop (JVM).
 
 * [/shared](./shared/src) is for code that will be shared across your Compose Multiplatform applications.
